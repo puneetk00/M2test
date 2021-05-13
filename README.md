@@ -5,6 +5,6 @@
 ## And you can also comment me on My youtube channel I will get back to you with solution. 
 [Youtube channel link](https://www.youtube.com/channel/UChb7DM9SspzrUVh4hnWL50A)
 
-[My Blog] (https://php-scripts-form.blogspot.com/)
+[My Blog](https://php-scripts-form.blogspot.com/)
 
-[My Website] (http://mg2dev.com/)
+[My Website](http://mg2dev.com/)
