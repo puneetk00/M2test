@@ -12,5 +12,7 @@
 			<argument name="Slowload" xsi:type="object">Puneet\Test\Model\Test\Slowload\Proxy</argument>
 		</arguments>
 	</type>
-	<!-- <preference for="Puneet\Test\Model\Test\Fastload" type="Puneet\Test\Model\Override\Fastloadtest" /> -->
+	<type name="Puneet\Test\Model\Page\PageName">
+		<plugin name="testplugin" type="Puneet\Test\Model\Plugin\Name" />
+	</type>
 </config>
